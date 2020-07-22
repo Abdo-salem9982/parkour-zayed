@@ -1,0 +1,125 @@
+/*********************************** tags ***************************************************** */
+body {
+  margin: 0;
+  text-align: center;
+}
+hr {
+  position: relative;
+  border: dotted red 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: auto;
+}
+
+
+h2 {
+  font-size: 30px;
+  color: #323232;
+  margin: 0 auto;
+}
+
+/*********************************** classes ***************************************************** */
+.top {
+  position: relative;
+  background-color: black;
+  padding: 100;
+  margin-bottom: 0;
+}
+
+.middel {
+  position: relative;
+  background-color: #3282b8;;
+  padding: 100px;
+  margin-top: 0;
+}
+
+.bottom {
+  position: relative;
+  background-color:black;
+  padding: 50px 0 20px;
+  line-height: 2;
+}
+
+.parkour-zayed-cover {
+  width: 50%;
+}
+.player{
+  position: absolute;
+  background-color: #3b6978;
+
+}
+
+.yasser {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+
+}
+
+.mida {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+
+}
+
+.abdo {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+
+}
+
+.yasser-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.mida-img {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.abdo-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+.facebook-link{
+ margin:auto 625px;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.btn {
+  margin:auto 625px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3c69fc;
+  background-image: -webkit-linear-gradient(top, #3c69fc, #3452d9);
+  background-image: -moz-linear-gradient(top, #3c69fc, #3452d9);
+  background-image: -ms-linear-gradient(top, #3c69fc, #3452d9);
+  background-image: -o-linear-gradient(top, #3c69fc, #3452d9);
+  background-image: linear-gradient(to bottom, #3c69fc, #3452d9);
+  text-decoration: none;
+}
